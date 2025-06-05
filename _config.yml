@@ -25,7 +25,7 @@ author:
   avatar           : "Profile.png"
   name             : "Oliver Parkes"
   pronouns         : # example: "she/her"  
-  bio              : Based at the UK Data Service, with a particular interest in using machine learning to solve classification problems"
+  bio              : # Based at the UK Data Service, with a particular interest in using machine learning to solve classification problems"
   location         : "Colchester, Essex"
   employer         : "UK Data Service"
   uri              : # URL
